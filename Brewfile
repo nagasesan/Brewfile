@@ -102,6 +102,7 @@ appstore PopClip
 appstore Quick Web
 appstore QuickRes
 appstore The Unarchiver
+appstore TimeTag
 appstore Weather°
 appstore Wunderlist
 appstore Xcode
