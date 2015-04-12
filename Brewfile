@@ -13,7 +13,9 @@ tap homebrew/binary
 
 ## homebrew/dupes
 tap homebrew/dupes
+install less
 install openldap --with-berkeley-db
+install rsync
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -42,6 +44,7 @@ install imagemagick
 install jasper
 install jpeg
 install ldapvi
+install ldns
 install libevent
 install libffi
 install libpng
@@ -64,6 +67,7 @@ install pwgen
 install python
 install readline
 install reattach-to-user-namespace
+install rmtrash
 install safe-rm
 install smartmontools
 install sqlite
@@ -71,6 +75,7 @@ install terminal-notifier
 install the_silver_searcher
 install tig
 install tmux
+install trash
 install tree
 install ufraw
 install unbound
