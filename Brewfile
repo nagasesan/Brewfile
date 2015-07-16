@@ -55,21 +55,13 @@ brew afsctool
 brew ansible
 brew atool
 brew bdw-gc
-brew boost
 brew coreutils
 brew ddrescue
-brew fping
-brew gdbm
 brew git
 brew gnu-sed
 brew ldns
-brew libevent
-brew libssh2
-brew libyaml
-brew logrotate
 brew lua
 brew luajit
-brew makedepend
 brew nginx
 brew nkf
 brew openssl --universal
@@ -78,17 +70,13 @@ brew peco
 brew pkg-config
 brew polipo
 brew popt
-brew postgresql
 brew pwgen
 brew python
 brew readline
 brew reattach-to-user-namespace
-brew redis
-brew safe-rm
 brew shellcheck
 brew smartmontools
 brew source-highlight
-brew spark
 brew terminal-notifier
 brew the_silver_searcher
 brew tig
@@ -99,10 +87,8 @@ brew vimpager
 brew w3m
 brew wget
 brew wrk
-brew xhyve
 brew xz
 brew z
-brew zabbix
 brew zsh --disable-etcdir
 brew zsh-completions
 
